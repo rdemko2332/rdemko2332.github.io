@@ -1,0 +1,6 @@
+name: "My personal site"
+author: "Richard T. Demko"
+output_dir: "."
+output:
+  html_document:
+    theme: spacelab
