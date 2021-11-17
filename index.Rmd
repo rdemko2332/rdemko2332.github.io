@@ -1,12 +1,20 @@
 ---
-title: It's my website!
+title: Richard T. Demko
 output: html_document
 ---
 
-# Find me on Github [Rich Demko](https://github.com/rdemko2332)
-# [My Email](mailto:rdemko32@gmail.com)
-## Things I Should Have
-+ Link to Github Repo
-+ About Me Section
-+ Education 
-+ Skills
+## Useful Tabs {.tabset }
+
+### About Me 
+Future Information
+
+### Education 
+
+### Skills 
+
+### Useful Links 
+[Github](https://github.com/rdemko2332)
+
+### Contact Information 
+
+
