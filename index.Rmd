@@ -3,7 +3,8 @@ title: It's my website!
 output: html_document
 ---
 
-# Write in markdown now
+# Find me on Github [Rich Demko](https://github.com/rdemko2332)
+# [My Email](mailto:rdemko32@gmail.com)
 
-+ bullet
-+ list
++ Link to Github Repo
++ About Me Section
