@@ -1,12 +1,8 @@
 h1 {
-  color: blue;
+  color: black;
 }
 a:link {
   color: blue;
-}
-
-a:visited {
-  color: gray;
 }
 
 a:hover {
@@ -16,5 +12,12 @@ a:hover {
 a:hover {
   text-decoration: none;
 }
+
+body {
+  background: url(https://raw.githubusercontent.com/rdemko2332/rdemko2332.github.io/main/white_keyboard.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 
 

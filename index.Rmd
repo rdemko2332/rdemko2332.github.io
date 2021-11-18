@@ -9,12 +9,15 @@ output: html_document
 Future Information
 
 ### Education 
+Future Information
 
 ### Skills 
+Future Information
 
 ### Useful Links 
 [Github](https://github.com/rdemko2332)
 
 ### Contact Information 
+Future Information
 
 
