@@ -7,7 +7,7 @@ output: html_document
 ---
 
 ### Richard T. Demko {.title}
-## Useful Tabs {.tabset }
+## {.tabset }
 
 ### About Me 
 Future Information
