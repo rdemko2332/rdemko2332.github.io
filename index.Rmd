@@ -1,8 +1,12 @@
+
+<img src="https://raw.githubusercontent.com/rdemko2332/rdemko2332.github.io/main/photo.jpg" alt="logo" width="300" height="300">
+
 ---
-title: Richard T. Demko
+title:
 output: html_document
 ---
 
+### Richard T. Demko {.title}
 ## Useful Tabs {.tabset }
 
 ### About Me 
