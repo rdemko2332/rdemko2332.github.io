@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/rdemko2332/rdemko2332.github.io/main/photo.jpg" alt="logo" width="300" height="300">
+<img src="https://raw.githubusercontent.com/rdemko2332/rdemko2332.github.io/main/photo.jpg" alt="logo">
 
 ---
 title:
